@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "78577b1da0c19810",
+    "type": "split",
+    "children": [
+      {
+        "id": "433080f95d90f161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9de740988fbaf08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean fields asympotic/Concentration Inequalities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93b1617e658d5357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean fields asympotic/Gaussian inequality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8126b555bd6ba2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0758c1fb733753b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c8a9027c26d7bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76123e9e35a6b3e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "126b102f6a152bda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cb9111189ed14af",
+    "type": "split",
+    "children": [
+      {
+        "id": "b46604196d58efdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ade4d163ec5885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mean fields asympotic/Gaussian inequality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d762aecf723b548",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mean fields asympotic/Gaussian inequality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "199d1919d2847237",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8c59b55ad22e5bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mean fields asympotic/Gaussian inequality.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "93b1617e658d5357",
+  "lastOpenFiles": [
+    "Mean fields asympotic/Concentration Inequalities.md",
+    "Mean fields asympotic/Gaussian inequality.md",
+    "未命名.md",
+    "Learning-notes/Mean fields asympotic/Concentration Inequalities.md",
+    "Learning-notes/Mean fields asympotic/Replica Method.md",
+    "Learning-notes/Mean fields asympotic/Z2 synchronization and the free energy approach.md",
+    "Mean fields asympotic/Replica Method.md",
+    "Mean fields asympotic/Z2 synchronization and the free energy approach.md",
+    "Concentration Inequalities.md",
+    "Positive element.md",
+    "Mean fields asympotic",
+    "未命名 1.md"
+  ]
+}
