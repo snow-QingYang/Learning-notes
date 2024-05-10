@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mean fields asympotic/Concentration Inequalities.md",
+                "file": "CS231n/Assignment 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS231n/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS231n/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "CS231n/Assignment 1.md"
               }
             }
           }
@@ -157,9 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "35c8a9027c26d7bd",
+  "active": "93b1617e658d5357",
   "lastOpenFiles": [
     "Mean fields asympotic/Concentration Inequalities.md",
+    "CS231n/Assignment 1.md",
+    "CS231n",
     "未命名.md",
     "Mean fields asympotic/Gaussian inequality.md",
     "Mean fields asympotic/Z2 synchronization and the free energy approach.md",
