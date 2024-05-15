@@ -6,3 +6,5 @@ f(X) = \left\{ \begin{array}{ll} \log \det X & \mbox{if } X \succ 0, \\+\infty &
 ## Deterministic matrix
 
  is a matrix that doesn't include any random elements
+
+### log-concave distribution with parameter γ

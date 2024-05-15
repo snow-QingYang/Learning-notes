@@ -21,3 +21,12 @@ How to prove this theorem:
 
 Use this inequality for our Asymptotic concentration:
 
+## $\mathbb{Z_2}$ sync problem
+$$Y = \frac{\lambda}{n} \theta \theta^{T}+W \in \mathbb{R^{n\times n}}$$
+ $W \sim  GOE(n)$   $W_{ij}$ $i.i.d$ $N(0, \frac{1}{n})$  $1\leq i < j \leq n$   $W_{ij} =W_{ji}$  $W_{ii}$ $i.i.d$ $N(0, \frac{2}{n})$ 
+ We observe $Y \in \mathbb{R^{n \times n}}$ and estimate $\theta$ 
+
+Spectral estimator: 
+  $$\hat{\theta}(Y) = \hat{\theta}_{\text{spec}}(Y) = \arg\max_{\theta \in \mathbb{S}^{n-1}(\sqrt{n})} \langle \theta, Y \theta \rangle/n$$
+  Some scaling result (using random matrix theory):
+$$\|W\|_{op} \approx 2 $$ $$\|\theta \theta^T\|_{op}\approx  n=\|n\|^2$$
