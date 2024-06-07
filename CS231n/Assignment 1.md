@@ -22,3 +22,5 @@ Because the data is an outlier to the row of training data or to the column of t
 
 ## Cross Validation
 
+
+# Support Vector Machine
