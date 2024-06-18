@@ -17,3 +17,6 @@ The Learning process
 In this paper, a theoretical framework is established to study contrastive learning under **the linear representation setting**. They provide a theoretical analysis on the **spiked covariance model** and theoretically justify why contrastive learning outperforms **standard autoencoders** and **generative adversarial networks (GANs)** 
 Conclusion: contrastive learning is able to remove more noise by constructing contrastive samples via augmentations.
 ## Model Setup
+### 2.1 Linear Representation Settings for Contrastive Learning
+
+Given an input  $x \in \mathbb{R}^d$ , contrastive learning aims to learn a low-dimensional representation $h = f(x; \theta) \in \mathbb{R}^r$ by contrasting different samples, that is, maximizing the agreement between positive pairs, and minimizing the agreement between negative pairs. Suppose we have \( n \) data points \( X = [x_1, x_2, \ldots, x_n] \in \mathbb{R}^{d \times n} \) from the population distribution \( \mathcal{D} \). The contrastive learning task can be formulated to the following optimization problem: \[ \min_\theta \mathcal{L}(\theta) = \min_\theta \frac{1}{n} \sum_{i=1}^n \ell(x_i, \mathcal{B}_i^{\text{Pos}}, \mathcal{B}_i^{\text{Neg}}; f(\cdot; \theta)) + \lambda R(\theta), \]
