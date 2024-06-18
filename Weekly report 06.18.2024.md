@@ -28,3 +28,4 @@ $$
 \ell(x, \mathcal{B}_x^{\text{Pos}}, \mathcal{B}_x^{\text{Neg}}, f(\cdot; \theta)) = - \sum_{x^{\text{Pos}} \in \mathcal{B}_x^{\text{Pos}}} \frac{\langle f(x, \theta), f(x^{\text{Pos}}, \theta) \rangle}{|\mathcal{B}_x^{\text{Pos}}|} + \sum_{x^{\text{Neg}} \in \mathcal{B}_x^{\text{Neg}}} \frac{\langle f(x, \theta), f(x^{\text{Neg}}, \theta) \rangle}{|\mathcal{B}_x^{\text{Neg}}|}
 $$
 
+### G
