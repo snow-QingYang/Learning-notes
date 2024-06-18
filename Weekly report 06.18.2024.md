@@ -24,4 +24,7 @@ $$
 \min_\theta \mathcal{L}(\theta) = \min_\theta \frac{1}{n} \sum_{i=1}^n \ell(x_i, \mathcal{B}_i^{\text{Pos}}, \mathcal{B}_i^{\text{Neg}}; f(\cdot; \theta)) + \lambda R(\theta),
 $$
 ### Linear contrasive loss
+$$ 
+\ell(x, \mathcal{B}_x^{\text{Pos}}, \mathcal{B}_x^{\text{Neg}}, f(\cdot; \theta)) = - \sum_{x^{\text{Pos}} \in \mathcal{B}_x^{\text{Pos}}} \frac{\langle f(x, \theta), f(x^{\text{Pos}}, \theta) \rangle}{|\mathcal{B}_x^{\text{Pos}}|} + \sum_{x^{\text{Neg}} \in \mathcal{B}_x^{\text{Neg}}} \frac{\langle f(x, \theta), f(x^{\text{Neg}}, \theta) \rangle}{|\mathcal{B}_x^{\text{Neg}}|}
+$$
 
