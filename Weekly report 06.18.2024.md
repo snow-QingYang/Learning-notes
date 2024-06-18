@@ -28,4 +28,9 @@ $$
 \ell(x, \mathcal{B}_x^{\text{Pos}}, \mathcal{B}_x^{\text{Neg}}, f(\cdot; \theta)) = - \sum_{x^{\text{Pos}} \in \mathcal{B}_x^{\text{Pos}}} \frac{\langle f(x, \theta), f(x^{\text{Pos}}, \theta) \rangle}{|\mathcal{B}_x^{\text{Pos}}|} + \sum_{x^{\text{Neg}} \in \mathcal{B}_x^{\text{Neg}}} \frac{\langle f(x, \theta), f(x^{\text{Neg}}, \theta) \rangle}{|\mathcal{B}_x^{\text{Neg}}|}
 $$
 
-### G
+### Generation for Augmented Pairs 
+The loss function of the self-supervised contrastive learning problem can then be written as: 
+
+$$ \mathcal{L}_{\text{SelfCon}}(W) = - \frac{1}{2n} \sum_{i=1}^{n} \sum_{v=1}^{2} \left[ \langle W g_v(x_i), W g_{[2] \setminus \{v\}}(x_i) \rangle - \sum_{j \neq i} \sum_{s=1}^{2} \frac{\langle W g_v(x_i), W g_s(x_j) \rangle}{2n - 2} \right] + \frac{\lambda}{2} \|WW^{\top}\|_F^2.
+$$
+###
