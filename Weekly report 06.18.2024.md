@@ -12,4 +12,6 @@ In this paper, the second part is based on ResNet (He et al., 2016).
 
 The Learning process
 ![[Pasted image 20240619003346.png]]
-## Theoretical 
+## Theoretical Analysis of Contrasive learning
+
+In this paper, a theoretical framework is estabto study contrastive learning under the linear representation setting. Under this framework, we provide a theoretical analysis of the feature learning performance of the contrastive learning on the spiked covariance model (Bai and Yao, 2012; Yao et al., 2015; Zhang et al., 2018) and theoretically justify why contrastive learning outperforms standard autoencoders and generative adversarial networks (GANs) (Goodfellow et al., 2014) —contrastive learning is able to remove more noise by constructing contrastive samples via augmentations.
