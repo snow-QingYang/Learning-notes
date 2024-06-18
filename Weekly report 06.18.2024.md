@@ -43,5 +43,5 @@ In this paper, we use spiked covariance model
 $$ 
 x = U^\star z + \xi, \quad \text{Cov}(z) = \nu^2 I_r, \quad \text{Cov}(\xi) = \Sigma, 
 $$
-where $z \in \mathbb{R}^r$ and $\xi \in \mathbb{R}^d$  are both zero mean sub-Gaussian independent random variables, and  $\nu \in \mathbb{R}$  is a constant representing the signal strength. In particular,  $U^\star \in \mathbb{O}_{d,r}$ \) and \(\Sigma = \text{diag}(\sigma_1^2, \ldots, \sigma_d^2) \). The first term \( U^\star z \) represents the signal of interest residing in a low-dimensional subspace spanned by the columns of \( U^\star \). The second term \( \xi \) is the dense noise with heteroskedastic noise. Given that, the ideal low-dimensional representation is to
+where $z \in \mathbb{R}^r$ and $\xi \in \mathbb{R}^d$  are both zero mean sub-Gaussian independent random variables, and  $\nu \in \mathbb{R}$  is a constant representing the signal strength. In particular,  $U^\star \in \mathbb{O}_{d,r}$  and \(\Sigma = \text{diag}(\sigma_1^2, \ldots, \sigma_d^2) \). The first term \( U^\star z \) represents the signal of interest residing in a low-dimensional subspace spanned by the columns of \( U^\star \). The second term \( \xi \) is the dense noise with heteroskedastic noise. Given that, the ideal low-dimensional representation is to
 
