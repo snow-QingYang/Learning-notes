@@ -16,3 +16,4 @@ The Learning process
 
 In this paper, a theoretical framework is established to study contrastive learning under **the linear representation setting**. They provide a theoretical analysis on the **spiked covariance model** and theoretically justify why contrastive learning outperforms **standard autoencoders** and **generative adversarial networks (GANs)** 
 Conclusion: contrastive learning is able to remove more noise by constructing contrastive samples via augmentations.
+## Model Setup
