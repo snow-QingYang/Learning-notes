@@ -47,11 +47,9 @@
             "id": "0a1e27c6a4dd3fdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Weekly report 06.18.2024.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240619003346.png"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly report 06.18.2024.md",
+                "file": "Pasted image 20240619003346.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly report 06.18.2024.md",
+                "file": "Pasted image 20240619003346.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly report 06.18.2024.md"
+                "file": "Pasted image 20240619003346.png"
               }
             }
           }
@@ -185,18 +183,18 @@
   },
   "active": "0a1e27c6a4dd3fdb",
   "lastOpenFiles": [
-    "Pasted image 20240619003346.png",
     "Pasted image 20240618213000.png",
-    "Weekly reports/Weekly report 06. 10 2024.md",
+    "Pasted image 20240610151440.png",
+    "Pasted image 20240604163605.png",
     "Weekly report 06.18.2024.md",
+    "Pasted image 20240619003346.png",
+    "Weekly reports/Weekly report 06. 10 2024.md",
     "Mean fields asympotic/Z2 synchronization and the free energy approach.md",
     "Random thing/random things.md",
     "Mean fields asympotic/Replica Method.md",
-    "Pasted image 20240610151440.png",
     "Mean fields asympotic/Concentration Inequalities.md",
     "Mean fields asympotic/Concentration inequalities Mean Fields Calculations.md",
     "Mean fields asympotic/Gaussian inequality.md",
-    "Pasted image 20240604163605.png",
     "Pasted image 20240608235121.png",
     "README.md",
     "Weekly reports",
