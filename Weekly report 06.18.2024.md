@@ -57,5 +57,5 @@ $$
 
 where  $C > 0$  is a positive constant,  $\sigma_i$  is the $i$ -th largest eigenvalue of the following matrix:
 $$
- X_1 X_2^{\top} + X_2 X_1^{\top} - \frac{1}{2(n-1)} (X_1 + X_2) (1_n 1_n^{\top} - I_n) (X_1 + X_2)^{\top}, \]
-
+ X_1 X_2^{\top} + X_2 X_1^{\top} - \frac{1}{2(n-1)} (X_1 + X_2) (1_n 1_n^{\top} - I_n) (X_1 + X_2)^{\top}, 
+$$
