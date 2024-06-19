@@ -49,4 +49,4 @@ It was proposed from the empirical observation that the eigenvalues of the sampl
 
 
 ## Theorems
-### Proposition
+### Proposition 1 
