@@ -49,7 +49,8 @@ It was proposed from the empirical observation that the eigenvalues of the sampl
 
 
 ## Theorems
-### Proposition 5 For two fixed augmentation functions \( g_1, g_2 : \mathbb{R}^d \rightarrow \mathbb{R}^d \), denote the augmented data matrices as  $X_1 = [g_1(x_1), \cdots, g_1(x_n)] \in \mathbb{R}^{d \times n}$  and  $X_2 = [g_2(x_1), \cdots, g_2(x_n)] \in \mathbb{R}^{d \times n}$, when the augmented pairs are generated as in Definition 1, all the optimal solutions of contrastive learning problem are given by:
+### Proposition 5 
+For two fixed augmentation functions \( g_1, g_2 : \mathbb{R}^d \rightarrow \mathbb{R}^d \), denote the augmented data matrices as  $X_1 = [g_1(x_1), \cdots, g_1(x_n)] \in \mathbb{R}^{d \times n}$  and  $X_2 = [g_2(x_1), \cdots, g_2(x_n)] \in \mathbb{R}^{d \times n}$, when the augmented pairs are generated as in Definition 1, all the optimal solutions of contrastive learning problem are given by:
 $$
 W_{CL} = C \left( \sum_{i=1}^r u_i \sigma_i v_i^{\top} \right)^{\top}, 
 $$
@@ -59,3 +60,4 @@ where  $C > 0$  is a positive constant,  $\sigma_i$  is the $i$ -th largest eige
 $$
  X_1 X_2^{\top} + X_2 X_1^{\top} - \frac{1}{2(n-1)} (X_1 + X_2) (1_n 1_n^{\top} - I_n) (X_1 + X_2)^{\top}, 
 $$
+Proof: I have understod the proof part. So I will skip this.
