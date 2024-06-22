@@ -65,7 +65,7 @@ Proof: I have understod the proof part. So I will skip this.
 ### Recovery ability of autoencoder
 ### Theorem B.7 (Restatement of Theorem 13)
 
-Consider the spiked covariance model  $\text{Eq.}(5)$ , under Assumptions 8-10 and  $n > d \gg r$ , let  W_{AE} \) be the learned representation of autoencoder with singular value decomposition \( W_{AE} = (U_{AE} \Sigma_{AE} V_{AE}^\top)^\top \) (as in \( \text{Eq.}(7) \)). If we further assume \( \{ \sigma_i^2 \}_{i=1}^d \) are different from each other and \( \sigma_{(1)}^2 / (\sigma_{(r)}^2 - \sigma_{(r+1)}^2) < C_\sigma \) for some universal constant \( C_\sigma \). Then there exist two universal constants \( C_\rho > 0, c \in (0, 1) \), such that when \( \rho < C_\rho \), we have
+Consider the spiked covariance model  $\text{Eq.}(5)$ , under Assumptions 8-10 and  $n > d \gg r$ , let  $W_{AE}$ be the learned representation of autoencoder with singular value decomposition $W_{AE} = (U_{AE} \Sigma_{AE} V_{AE}^\top)^\top$  as in $\text{Eq.}(7)$ . If we further assume $\{ \sigma_i^2 \}_{i=1}^d$  are different from each other and \( \sigma_{(1)}^2 / (\sigma_{(r)}^2 - \sigma_{(r+1)}^2) < C_\sigma \) for some universal constant \( C_\sigma \). Then there exist two universal constants \( C_\rho > 0, c \in (0, 1) \), such that when \( \rho < C_\rho \), we have
 
 \[ 
 \mathbb{E} \| \sin \Theta (U^\star, U_{AE}) \|_F \geq c \sqrt{r}.
