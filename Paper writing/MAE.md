@@ -10,7 +10,8 @@ $$
 \mathcal{L} := ((W_{AD}W_{AE}A-I)XX^T(W_{AD}W_{AE}A-I)^T) 
 $$
 $$
-\mathcal{L} := tr((W_{AD}W_{AE}A-I)XX^T) 
+\mathcal{L} := tr((W_{AD}W_{AE}A-I)^T(W_{AD}W_{AE}A-I)XX^T) 
 $$
+Let $XX^T$
 
 
