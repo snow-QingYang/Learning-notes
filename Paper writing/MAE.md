@@ -1,6 +1,6 @@
 $$
-\mathcal{L} := \left\| X - W_{AD} W_{AE}AX \right\|_F^2
+\mathcal{L} := \left\| W_{AD} W_{AE}AX- X  \right\|_F^2
 $$
 $$
-\mathcal{L} = 
+\mathcal{L} = tr((XW_{AD}W_{AE})) 
 $$
