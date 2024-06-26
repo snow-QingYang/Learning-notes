@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly report 06.18.2024.md",
+                "file": "Paper writing/MAE.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly report 06.18.2024.md",
+                "file": "Paper writing/MAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly report 06.18.2024.md",
+                "file": "Paper writing/MAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly report 06.18.2024.md"
+                "file": "Paper writing/MAE.md"
               }
             }
           }
@@ -185,12 +185,14 @@
   },
   "active": "0a1e27c6a4dd3fdb",
   "lastOpenFiles": [
+    "Weekly report 06.18.2024.md",
+    "Paper writing/MAE.md",
+    "Paper writing",
     "Weekly reports/Weekly report 06. 10 2024.md",
     "Pasted image 20240619003346.png",
     "Pasted image 20240618213000.png",
     "Pasted image 20240610151440.png",
     "Pasted image 20240604163605.png",
-    "Weekly report 06.18.2024.md",
     "Mean fields asympotic/Z2 synchronization and the free energy approach.md",
     "Random thing/random things.md",
     "Mean fields asympotic/Replica Method.md",
