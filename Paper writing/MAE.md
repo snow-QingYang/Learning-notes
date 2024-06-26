@@ -1,5 +1,5 @@
 $$
-\mathcal{L} := \mathbb{E}_{A} \frac{1}{}\left\| W_{AD} W_{AE}AX - X  \right\|_F^2
+\mathcal{L} := \mathbb{E}_{A} \frac{1}{n}\left\| W_{AD} W_{AE}AX - X  \right\|_F^2
 $$
 
 $$
