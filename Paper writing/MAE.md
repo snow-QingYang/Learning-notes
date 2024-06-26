@@ -3,5 +3,6 @@ $$
 $$
 
 $$
-\mathcal{L} = tr((W_{AD}W_{AE}A-I)X)^T) 
+\mathcal{L} := tr((W_{AD}W_{AE}A-I)X(W_{AD}W_{AE}A-I)X)^T) 
 $$
+
