@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7b2ee2d08241d8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0a1e27c6a4dd3fdb",
+  "active": "c7b2ee2d08241d8a",
   "lastOpenFiles": [
     "Mean fields asympotic/Stieltjes Transform.md",
     "Mean fields asympotic/Z2 synchronization and the free energy approach.md",
